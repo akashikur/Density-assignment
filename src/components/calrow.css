@@ -1,0 +1,31 @@
+.cal {
+  height: 171px;
+  display: flex;
+  border: 1.5px solid
+    linear-gradient(
+      180deg,
+      rgba(50, 216, 117, 0.24) 0%,
+      rgba(226, 255, 111, 0.25) 121.93%
+    );
+  box-shadow: 0px 0px 10px 0px rgba(235, 255, 37, 0.2);
+}
+.calrow {
+  width: 100%;
+}
+.cal div {
+  height: 78px;
+  width: 253px;
+  display: flex;
+  flex-direction: column;
+}
+.cal h1 {
+  font-family: Neurial Grotesk;
+  font-size: 40px;
+  font-weight: 700;
+  color: rgba(235, 255, 37, 1);
+}
+.cal p {
+  font-family: Neurial Grotesk;
+  font-size: 16px;
+  font-weight: 500;
+}

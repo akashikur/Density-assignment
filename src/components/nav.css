@@ -1,0 +1,49 @@
+.nav-bar {
+  width: 100%;
+  height: 86px;
+  padding: 24px 216px 24px 216px;
+  border: 0px 0px 1px 0px;
+  gap: 387px;
+  background-color: rgb(09, 20, 11);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.nav-bar img {
+  width: 99.95px;
+  height: 24px;
+}
+a {
+  text-decoration: none;
+  font-family: "Neurial Grotesk";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(252, 252, 252, 1);
+}
+.nav {
+  width: Hug (519px);
+  height: Hug (48px);
+  gap: 56px;
+  display: flex;
+  align-items: center;
+}
+.nav button {
+  width: 161px;
+  height: 38px;
+  padding: 10px 32px 10px 32px;
+  border-radius: 8px;
+  gap: 10px;
+  color: rgba(0, 0, 0, 1);
+  font-family: "Neurial Grotesk";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0em;
+  background: linear-gradient(85.85deg, #d4f938 23.09%, #32d875 108.69%);
+  box-shadow: 0px 0px 16px 0px rgba(168, 239, 156, 0.8);
+  border: none;
+  text-align: center;
+}
